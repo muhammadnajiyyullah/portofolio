@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Avatar Nadia Putri">
+  <defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F4B49C"/><stop offset="1" stop-color="#D98E73"/></linearGradient></defs>
+  <rect width="200" height="200" rx="60" fill="url(#c)"/>
+  <circle cx="100" cy="82" r="36" fill="#FFF7F1"/>
+  <path d="M40 178c4-38 28-56 60-56s56 18 60 56z" fill="#FFF7F1"/>
+  <circle cx="152" cy="50" r="14" fill="#8B6CFF" opacity=".75"/>
+</svg>

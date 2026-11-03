@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Resep Nusantara interface design">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6EBDD"/>
+      <stop offset="1" stop-color="#EFD3C2"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D98E73"/>
+      <stop offset="1" stop-color="#B45D3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <path d="M0 620C240 560 360 660 600 610s380-90 600-30v170H0z" fill="#D98E73" opacity=".14"/>
+  <circle cx="1080" cy="110" r="150" fill="#FFF" opacity=".35"/>
+
+  <text x="80" y="105" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8C4B2F" letter-spacing="3">RESEP NUSANTARA / UI CASE STUDY</text>
+  <text x="80" y="168" font-family="'Plus Jakarta Sans',system-ui" font-size="46" font-weight="800" fill="#3A2119">Masak dengan cerita.</text>
+  <text x="80" y="200" font-family="'Plus Jakarta Sans',system-ui" font-size="14" fill="#8C6A5C">Design system &amp; app exploration · 2024</text>
+
+  <g transform="translate(80 260)">
+    <rect x="0" y="0" width="330" height="400" rx="26" fill="#FFFaf4"/>
+    <rect x="16" y="16" width="298" height="190" rx="18" fill="#E8C9B4"/>
+    <circle cx="165" cy="106" r="62" fill="#D98E73"/>
+    <circle cx="165" cy="106" r="44" fill="#F4B49C"/>
+    <path d="M130 106c18-26 52-26 70 0" stroke="#FFF" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <rect x="16" y="222" width="298" height="1" fill="#EEDFD2"/>
+    <text x="32" y="258" font-family="'Plus Jakarta Sans',system-ui" font-size="21" font-weight="800" fill="#3A2119">Soto Betawi</text>
+    <text x="32" y="280" font-family="'Plus Jakarta Sans',system-ui" font-size="10" fill="#8C6A5C">Jakarta · 45 menit · 4 porsi</text>
+    <g font-family="'Plus Jakarta Sans',system-ui" font-size="9" fill="#8C6A5C">
+      <rect x="32" y="300" width="74" height="24" rx="12" fill="#F6E3D6"/><text x="48" y="316" fill="#8C4B2F">Santan</text>
+      <rect x="114" y="300" width="64" height="24" rx="12" fill="#F6E3D6"/><text x="128" y="316" fill="#8C4B2F">Daging</text>
+      <rect x="186" y="300" width="64" height="24" rx="12" fill="#F6E3D6"/><text x="200" y="316" fill="#8C4B2F">Rempah</text>
+    </g>
+    <text x="32" y="356" font-family="'Plus Jakarta Sans',system-ui" font-size="10" fill="#6B4A3D" line-height="1.5">Kuah santan hangat dengan rempah yang</text>
+    <text x="32" y="372" font-family="'Plus Jakarta Sans',system-ui" font-size="10" fill="#6B4A3D">menyatu perlahan — sabar adalah bahan utama.</text>
+    <rect x="32" y="390" width="0" height="0" fill="none"/>
+    <rect x="232" y="336" width="82" height="40" rx="20" fill="#B45D3D"/>
+    <text x="256" y="361" font-family="'Plus Jakarta Sans',system-ui" font-size="10" font-weight="600" fill="#FFFaf4">Masak →</text>
+  </g>
+
+  <g transform="translate(444 250)">
+    <rect x="0" y="0" width="300" height="440" rx="38" fill="#3A2119"/>
+    <rect x="12" y="12" width="276" height="416" rx="28" fill="#FFFaf4"/>
+    <rect x="112" y="24" width="76" height="16" rx="8" fill="#3A2119"/>
+    <text x="28" y="72" font-family="'Plus Jakarta Sans',system-ui" font-size="17" font-weight="800" fill="#3A2119">Hari ini, masak apa?</text>
+    <rect x="28" y="88" width="244" height="38" rx="12" fill="#F6EBDD"/>
+    <circle cx="50" cy="107" r="6" fill="none" stroke="#B08A79" stroke-width="2"/>
+    <path d="M54 111l5 5" stroke="#B08A79" stroke-width="2"/>
+    <text x="66" y="111" font-family="'Plus Jakarta Sans',system-ui" font-size="9" fill="#B08A79">Cari resep atau bahan…</text>
+    <g font-family="'Plus Jakarta Sans',system-ui" font-size="9">
+      <rect x="28" y="142" width="118" height="120" rx="14" fill="#E8C9B4"/>
+      <circle cx="87" cy="190" r="27" fill="#D98E73"/>
+      <text x="40" y="244" font-size="10" font-weight="700" fill="#3A2119">Rendang</text>
+      <rect x="154" y="142" width="118" height="120" rx="14" fill="#DCE6CF"/>
+      <circle cx="213" cy="190" r="27" fill="#7D9A6B"/>
+      <text x="166" y="244" font-size="10" font-weight="700" fill="#3A2119">Gado-gado</text>
+    </g>
+    <text x="28" y="294" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="700" fill="#3A2119">Cerita pekan ini</text>
+    <rect x="28" y="306" width="244" height="80" rx="14" fill="#F6E3D6"/>
+    <text x="44" y="332" font-family="'Plus Jakarta Sans',system-ui" font-size="10" font-weight="700" fill="#8C4B2F">Di balik semangkuk soto</text>
+    <text x="44" y="350" font-family="'Plus Jakarta Sans',system-ui" font-size="8" fill="#8C6A5C">Tentang warung, waktu, dan</text>
+    <text x="44" y="364" font-family="'Plus Jakarta Sans',system-ui" font-size="8" fill="#8C6A5C">resep yang diwariskan.</text>
+    <rect x="28" y="404" width="244" height="1" fill="#EEDFD2"/>
+  </g>
+
+  <g transform="translate(800 250)">
+    <text x="0" y="20" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="700" fill="#3A2119">Design tokens</text>
+    <g font-family="'JetBrains Mono',monospace" font-size="9" fill="#8C6A5C">
+      <circle cx="34" cy="62" r="18" fill="#B45D3D"/><text x="62" y="66">terracotta / 500</text>
+      <circle cx="34" cy="110" r="18" fill="#D98E73"/><text x="62" y="114">rempah / 400</text>
+      <circle cx="34" cy="158" r="18" fill="#7D9A6B"/><text x="62" y="162">daun / 500</text>
+      <circle cx="34" cy="206" r="18" fill="#E9D8AE"/><text x="62" y="210">kunyit / 300</text>
+      <circle cx="34" cy="254" r="18" fill="#3A2119"/><text x="62" y="258">tanah / 900</text>
+    </g>
+    <rect x="0" y="292" width="280" height="1" fill="#D9C3B4"/>
+    <text x="0" y="324" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="700" fill="#3A2119">Typography</text>
+    <text x="0" y="360" font-family="'Plus Jakarta Sans',system-ui" font-size="26" font-weight="800" fill="#3A2119">Aa</text>
+    <text x="54" y="352" font-family="'Plus Jakarta Sans',system-ui" font-size="9" fill="#8C6A5C">Jakarta Sans</text>
+    <text x="54" y="368" font-family="'JetBrains Mono',monospace" font-size="8" fill="#B08A79">headline / 800</text>
+    <text x="150" y="360" font-family="Georgia,serif" font-size="26" fill="#3A2119">Aa</text>
+    <text x="198" y="352" font-family="'Plus Jakarta Sans',system-ui" font-size="9" fill="#8C6A5C">Fraunces</text>
+    <text x="198" y="368" font-family="'JetBrains Mono',monospace" font-size="8" fill="#B08A79">story / 400</text>
+  </g>
+
+  <text x="80" y="710" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8C4B2F" opacity=".6">SUS 86 · 5 USABILITY TESTS · FIGMA / REACT</text>
+</svg>

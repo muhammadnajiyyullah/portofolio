@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Jejak travel journal app">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD9C4"/>
+      <stop offset=".55" stop-color="#F4B49C"/>
+      <stop offset="1" stop-color="#D98E73"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2F3E2E"/>
+      <stop offset="1" stop-color="#1B261B"/>
+    </linearGradient>
+    <linearGradient id="map" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E8EFE1"/>
+      <stop offset="1" stop-color="#CBDCC0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#sky)"/>
+  <circle cx="980" cy="150" r="96" fill="#FFF" opacity=".32"/>
+  <path d="M0 540c180-90 300-40 430-86 160-57 300-130 470-64 120 47 210 60 300 40v320H0z" fill="#B7C9A8" opacity=".55"/>
+  <path d="M0 620c220-64 390 20 560-26 170-46 330-92 640-20v176H0z" fill="#7D9A6B" opacity=".55"/>
+  <g stroke="#FFF" stroke-opacity=".38" stroke-width="1.5" fill="none">
+    <path d="M0 470c170 20 260-54 420-38s270-40 430-18 230 26 350 4"/>
+    <path d="M0 500c190 18 280-48 430-34s280-34 420-14 220 22 350 2"/>
+  </g>
+
+  <g transform="translate(330 88) rotate(-4)">
+    <rect x="0" y="0" width="300" height="600" rx="42" fill="url(#phone)"/>
+    <rect x="12" y="12" width="276" height="576" rx="32" fill="#FBF8F2"/>
+    <rect x="112" y="24" width="76" height="18" rx="9" fill="#1B261B"/>
+    <text x="28" y="76" font-family="'JetBrains Mono',monospace" font-size="9" fill="#8A9A80" letter-spacing="1.5">JEJAK · 03</text>
+    <text x="28" y="106" font-family="'Plus Jakarta Sans',system-ui" font-size="22" font-weight="800" fill="#2F3E2E">Bali, slowly.</text>
+    <text x="28" y="126" font-family="'Plus Jakarta Sans',system-ui" font-size="10" fill="#7B8B71">12 — 18 Agustus · 6 hari</text>
+    <rect x="28" y="144" width="244" height="260" rx="20" fill="url(#map)"/>
+    <path d="M44 330c30-50 42-86 78-92s58 26 86 10 54-46 78-32" fill="none" stroke="#2F3E2E" stroke-width="2" stroke-dasharray="5 6" opacity=".55"/>
+    <g>
+      <circle cx="102" cy="270" r="15" fill="#FBF8F2"/><circle cx="102" cy="270" r="8" fill="#D98E73"/>
+      <circle cx="192" cy="240" r="15" fill="#FBF8F2"/><circle cx="192" cy="240" r="8" fill="#7D9A6B"/>
+      <circle cx="248" cy="302" r="15" fill="#FBF8F2"/><circle cx="248" cy="302" r="8" fill="#2F3E2E"/>
+    </g>
+    <rect x="44" y="312" width="126" height="52" rx="12" fill="#FFF" opacity=".95"/>
+    <text x="58" y="332" font-family="'Plus Jakarta Sans',system-ui" font-size="9" font-weight="700" fill="#2F3E2E">Ubud, 08:12</text>
+    <text x="58" y="347" font-family="'Plus Jakarta Sans',system-ui" font-size="8" fill="#7B8B71">Kopi, hujan, dan senyum.</text>
+    <text x="28" y="440" font-family="'Plus Jakarta Sans',system-ui" font-size="14" font-weight="700" fill="#2F3E2E">Today’s notes</text>
+    <g font-family="'Plus Jakarta Sans',system-ui">
+      <rect x="28" y="454" width="244" height="58" rx="14" fill="#F1EFE7"/>
+      <circle cx="52" cy="483" r="13" fill="#D98E73"/><text x="48" y="487" font-size="9" fill="#FFF">01</text>
+      <text x="74" y="478" font-size="10" font-weight="700" fill="#2F3E2E">Tegallalang at sunrise</text>
+      <text x="74" y="493" font-size="8" fill="#7B8B71">Tidak ada kata yang cukup.</text>
+      <rect x="28" y="520" width="244" height="52" rx="14" fill="#F1EFE7"/>
+      <circle cx="52" cy="546" r="13" fill="#7D9A6B"/><text x="48" y="550" font-size="9" fill="#FFF">02</text>
+      <text x="74" y="541" font-size="10" font-weight="700" fill="#2F3E2E">Uluwatu, 17:40</text>
+      <text x="74" y="556" font-size="8" fill="#7B8B71">Sunset yang bikin diam.</text>
+    </g>
+    <rect x="110" y="584" width="80" height="5" rx="2.5" fill="#2F3E2E" opacity=".25"/>
+  </g>
+
+  <g transform="translate(710 190) rotate(6)">
+    <rect x="0" y="0" width="250" height="360" rx="30" fill="#FBF8F2"/>
+    <rect x="20" y="20" width="210" height="180" rx="20" fill="#E8EFE1"/>
+    <path d="M42 168c24-42 54-18 78-52s46-20 66-44" fill="none" stroke="#2F3E2E" stroke-width="2" stroke-dasharray="4 5"/>
+    <circle cx="82" cy="140" r="10" fill="#D98E73"/><circle cx="170" cy="94" r="10" fill="#7D9A6B"/>
+    <text x="20" y="232" font-family="'Plus Jakarta Sans',system-ui" font-size="15" font-weight="800" fill="#2F3E2E">A week in Bali</text>
+    <text x="20" y="252" font-family="'Plus Jakarta Sans',system-ui" font-size="9" fill="#7B8B71">A slow travel diary</text>
+    <rect x="20" y="270" width="210" height="1" fill="#DDE5D5"/>
+    <text x="20" y="296" font-family="'Plus Jakarta Sans',system-ui" font-size="9" fill="#2F3E2E">24 photos · 9 places · 6 days</text>
+    <rect x="20" y="312" width="98" height="28" rx="14" fill="#2F3E2E"/>
+    <text x="42" y="330" font-family="'Plus Jakarta Sans',system-ui" font-size="9" font-weight="600" fill="#FBF8F2">Read story</text>
+  </g>
+
+  <g transform="translate(1010 520) rotate(3)">
+    <rect x="0" y="0" width="120" height="120" rx="24" fill="#FBF8F2" opacity=".94"/>
+    <circle cx="60" cy="48" r="20" fill="#D98E73"/>
+    <path d="M60 38v20l12 8" stroke="#FBF8F2" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <text x="60" y="90" text-anchor="middle" font-family="'Plus Jakarta Sans',system-ui" font-size="10" font-weight="700" fill="#2F3E2E">18:42</text>
+    <text x="60" y="104" text-anchor="middle" font-family="'Plus Jakarta Sans',system-ui" font-size="7" fill="#7B8B71">golden hour</text>
+  </g>
+
+  <text x="70" y="700" font-family="'JetBrains Mono',monospace" font-size="12" fill="#5E3B2E" opacity=".65">JEJAK — TRAVEL JOURNAL / FLUTTER</text>
+</svg>

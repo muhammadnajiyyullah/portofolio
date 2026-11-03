@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Lumina lecturer analytics">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E9E0FF"/>
+      <stop offset="1" stop-color="#F8F5FF"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8B6CFF"/>
+      <stop offset="1" stop-color="#C9B8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg3)"/>
+  <circle cx="1100" cy="90" r="170" fill="#FFF" opacity=".4"/>
+  <rect x="120" y="90" width="960" height="570" rx="26" fill="#FFF"/>
+  <text x="160" y="146" font-family="'Plus Jakarta Sans',system-ui" font-size="22" font-weight="800" fill="#2B1B5A">Class analytics</text>
+  <text x="160" y="170" font-family="'Plus Jakarta Sans',system-ui" font-size="12" fill="#8B7DB5">Human–Computer Interaction · Week 6</text>
+  <rect x="900" y="120" width="138" height="36" rx="18" fill="#F1ECFF"/>
+  <text x="922" y="143" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="600" fill="#6C4DE6">Export report</text>
+
+  <g font-family="'Plus Jakarta Sans',system-ui">
+    <rect x="160" y="200" width="200" height="112" rx="16" fill="#FAF8FF"/>
+    <text x="180" y="232" font-size="10" fill="#8B7DB5">ACTIVE STUDENTS</text>
+    <text x="180" y="270" font-size="30" font-weight="800" fill="#2B1B5A">42</text>
+    <text x="180" y="292" font-size="10" fill="#4FB783">+8% this week</text>
+
+    <rect x="378" y="200" width="200" height="112" rx="16" fill="#FAF8FF"/>
+    <text x="398" y="232" font-size="10" fill="#8B7DB5">AVG. PROGRESS</text>
+    <text x="398" y="270" font-size="30" font-weight="800" fill="#2B1B5A">78%</text>
+    <text x="398" y="292" font-size="10" fill="#4FB783">+12% this week</text>
+
+    <rect x="596" y="200" width="200" height="112" rx="16" fill="#FAF8FF"/>
+    <text x="616" y="232" font-size="10" fill="#8B7DB5">AT RISK</text>
+    <text x="616" y="270" font-size="30" font-weight="800" fill="#D98E73">6</text>
+    <text x="616" y="292" font-size="10" fill="#B45D3D">Need attention</text>
+  </g>
+
+  <rect x="160" y="336" width="530" height="288" rx="18" fill="#FAF8FF"/>
+  <text x="184" y="370" font-family="'Plus Jakarta Sans',system-ui" font-size="13" font-weight="700" fill="#2B1B5A">Weekly engagement</text>
+  <g>
+    <rect x="192" y="500" width="38" height="82" rx="8" fill="url(#bar)" opacity=".45"/>
+    <rect x="250" y="476" width="38" height="106" rx="8" fill="url(#bar)" opacity=".55"/>
+    <rect x="308" y="492" width="38" height="90" rx="8" fill="url(#bar)" opacity=".45"/>
+    <rect x="366" y="440" width="38" height="142" rx="8" fill="url(#bar)" opacity=".7"/>
+    <rect x="424" y="416" width="38" height="166" rx="8" fill="url(#bar)" opacity=".85"/>
+    <rect x="482" y="392" width="38" height="190" rx="8" fill="url(#bar)"/>
+    <rect x="540" y="424" width="38" height="158" rx="8" fill="url(#bar)" opacity=".8"/>
+    <rect x="598" y="456" width="38" height="126" rx="8" fill="url(#bar)" opacity=".6"/>
+  </g>
+  <g font-family="'JetBrains Mono',monospace" font-size="9" fill="#A69BC4">
+    <text x="204" y="602">MON</text><text x="262" y="602">TUE</text><text x="320" y="602">WED</text><text x="378" y="602">THU</text><text x="436" y="602">FRI</text><text x="494" y="602">SAT</text><text x="552" y="602">SUN</text>
+  </g>
+
+  <rect x="710" y="336" width="330" height="288" rx="18" fill="#FAF8FF"/>
+  <text x="734" y="370" font-family="'Plus Jakarta Sans',system-ui" font-size="13" font-weight="700" fill="#2B1B5A">Students needing help</text>
+  <g font-family="'Plus Jakarta Sans',system-ui" font-size="11">
+    <circle cx="750" cy="404" r="14" fill="#C9B8FF"/><text x="744" y="409" fill="#2B1B5A" font-size="10" font-weight="700">AN</text>
+    <text x="774" y="402" fill="#2B1B5A" font-weight="600">Anisa N.</text><text x="774" y="416" fill="#8B7DB5" font-size="9">Last active 6 days ago</text>
+    <rect x="974" y="392" width="46" height="22" rx="11" fill="#FFE3D6"/><text x="986" y="407" fill="#B45D3D" font-size="9">Remind</text>
+    <circle cx="750" cy="462" r="14" fill="#FFD9C9"/><text x="744" y="467" fill="#8C4B2F" font-size="10" font-weight="700">BP</text>
+    <text x="774" y="460" fill="#2B1B5A" font-weight="600">Bagas P.</text><text x="774" y="474" fill="#8B7DB5" font-size="9">Assignment missing</text>
+    <circle cx="750" cy="520" r="14" fill="#CFEBDD"/><text x="744" y="525" fill="#2F6B4F" font-size="10" font-weight="700">SL</text>
+    <text x="774" y="518" fill="#2B1B5A" font-weight="600">Sinta L.</text><text x="774" y="532" fill="#8B7DB5" font-size="9">Progress below 40%</text>
+  </g>
+  <rect x="734" y="560" width="282" height="42" rx="12" fill="#8B6CFF"/>
+  <text x="836" y="586" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="600" fill="#FFF">Send check-in messages</text>
+</svg>

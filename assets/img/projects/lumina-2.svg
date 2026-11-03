@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Lumina classroom view">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F3FF"/>
+      <stop offset="1" stop-color="#DED0FF"/>
+    </linearGradient>
+    <linearGradient id="vid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#33245F"/>
+      <stop offset="1" stop-color="#1B1430"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg2)"/>
+  <rect x="110" y="80" width="980" height="590" rx="26" fill="#FFF"/>
+  <rect x="110" y="80" width="980" height="64" rx="26" fill="#FBF9FF"/>
+  <rect x="110" y="120" width="980" height="24" fill="#FBF9FF"/>
+  <circle cx="144" cy="112" r="6" fill="#FF8A8A"/><circle cx="164" cy="112" r="6" fill="#FFD37A"/><circle cx="184" cy="112" r="6" fill="#7CFFCB"/>
+  <text x="220" y="118" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8B7DB5">lumina.app/class/hci</text>
+  <circle cx="1034" cy="112" r="16" fill="#C9B8FF"/><text x="1029" y="117" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="700" fill="#2B1B5A">R</text>
+
+  <rect x="146" y="176" width="580" height="330" rx="16" fill="url(#vid)"/>
+  <circle cx="436" cy="330" r="42" fill="#FFF" opacity=".16"/>
+  <circle cx="436" cy="330" r="32" fill="#FFF" opacity=".9"/>
+  <path d="M428 316l22 14-22 14z" fill="#2B1B5A"/>
+  <rect x="166" y="450" width="210" height="8" rx="4" fill="#FFF" opacity=".2"/>
+  <rect x="166" y="450" width="120" height="8" rx="4" fill="#7CFFCB"/>
+  <text x="166" y="480" font-family="'JetBrains Mono',monospace" font-size="10" fill="#B7A8DD">12:04 / 48:20</text>
+  <rect x="646" y="176" width="98" height="34" rx="17" fill="#FFE3D6"/>
+  <text x="664" y="197" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="600" fill="#B45D3D">LIVE</text>
+
+  <text x="146" y="552" font-family="'Plus Jakarta Sans',system-ui" font-size="24" font-weight="800" fill="#2B1B5A">Interaction Design Principles</text>
+  <text x="146" y="578" font-family="'Plus Jakarta Sans',system-ui" font-size="12" fill="#7B6FA0">Week 6 · Dr. Ayu Lestari · 42 students</text>
+
+  <rect x="760" y="176" width="296" height="430" rx="16" fill="#FAF8FF" stroke="#EEE8FF"/>
+  <text x="784" y="208" font-family="'Plus Jakarta Sans',system-ui" font-size="13" font-weight="700" fill="#2B1B5A">Class materials</text>
+  <g font-family="'Plus Jakarta Sans',system-ui">
+    <rect x="784" y="226" width="248" height="56" rx="10" fill="#FFF"/>
+    <rect x="798" y="242" width="24" height="24" rx="7" fill="#8B6CFF"/><text x="805" y="259" font-size="10" fill="#FFF">01</text>
+    <text x="834" y="252" font-size="11" font-weight="600" fill="#2B1B5A">Lecture slides</text>
+    <text x="834" y="267" font-size="9" fill="#8B7DB5">PDF · 4.2 MB</text>
+    <rect x="784" y="292" width="248" height="56" rx="10" fill="#FFF"/>
+    <rect x="798" y="308" width="24" height="24" rx="7" fill="#D98E73"/><text x="805" y="325" font-size="10" fill="#FFF">02</text>
+    <text x="834" y="318" font-size="11" font-weight="600" fill="#2B1B5A">Reading list</text>
+    <text x="834" y="333" font-size="9" fill="#8B7DB5">8 articles</text>
+    <rect x="784" y="358" width="248" height="56" rx="10" fill="#FFF"/>
+    <rect x="798" y="374" width="24" height="24" rx="7" fill="#4FB783"/><text x="805" y="391" font-size="10" fill="#FFF">03</text>
+    <text x="834" y="384" font-size="11" font-weight="600" fill="#2B1B5A">Assignment 3</text>
+    <text x="834" y="399" font-size="9" fill="#8B7DB5">Due Sunday</text>
+  </g>
+  <rect x="784" y="438" width="248" height="1" fill="#EEE8FF"/>
+  <text x="784" y="470" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="700" fill="#2B1B5A">Discussion</text>
+  <g font-family="'Plus Jakarta Sans',system-ui" font-size="10" fill="#6B5B95">
+    <circle cx="798" cy="496" r="11" fill="#C9B8FF"/><rect x="818" y="488" width="160" height="7" rx="3.5" fill="#2B1B5A" opacity=".35"/><rect x="818" y="500" width="110" height="6" rx="3" fill="#2B1B5A" opacity=".15"/>
+    <circle cx="798" cy="530" r="11" fill="#FFD9C9"/><rect x="818" y="522" width="140" height="7" rx="3.5" fill="#2B1B5A" opacity=".35"/><rect x="818" y="534" width="90" height="6" rx="3" fill="#2B1B5A" opacity=".15"/>
+  </g>
+  <rect x="784" y="556" width="248" height="34" rx="10" fill="#F1ECFF"/>
+  <text x="800" y="577" font-family="'Plus Jakarta Sans',system-ui" font-size="10" fill="#8B7DB5">Write a comment…</text>
+</svg>

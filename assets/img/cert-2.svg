@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sertifikat AWS Cloud Practitioner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF4E0"/>
+      <stop offset="1" stop-color="#FFD9A8"/>
+    </linearGradient>
+    <linearGradient id="medal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#232F3E"/>
+      <stop offset="1" stop-color="#0F1720"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="420" fill="url(#bg)"/>
+  <path d="M0 320c140-40 250 20 390-18 90-25 150-20 210-2v120H0z" fill="#FFC85C" opacity=".26"/>
+  <rect x="40" y="40" width="520" height="340" rx="20" fill="#FFFDF8" opacity=".8"/>
+  <text x="72" y="86" font-family="'JetBrains Mono',monospace" font-size="10" fill="#B4761E" letter-spacing="3">TRAINING COMPLETION</text>
+  <text x="72" y="134" font-family="'Plus Jakarta Sans',system-ui" font-size="28" font-weight="800" fill="#232F3E">AWS Cloud</text>
+  <text x="72" y="164" font-family="'Plus Jakarta Sans',system-ui" font-size="28" font-weight="800" fill="#D98E29">Practitioner</text>
+  <text x="72" y="200" font-family="'Plus Jakarta Sans',system-ui" font-size="11" fill="#7B6A4E">Amazon Web Services · 2024</text>
+  <rect x="72" y="224" width="250" height="1" fill="#EEDFC4"/>
+  <text x="72" y="254" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="600" fill="#232F3E">Raka Pratama</text>
+  <text x="72" y="274" font-family="'JetBrains Mono',monospace" font-size="9" fill="#A08A66">CLOUD · FOUNDATIONS</text>
+  <g transform="translate(430 240)">
+    <circle r="66" fill="url(#medal)"/>
+    <path d="M-34 8l22 14 12-10 12 10 22-14-8 30h-52z" fill="#FFC85C"/>
+    <text y="0" text-anchor="middle" font-family="'Plus Jakarta Sans',system-ui" font-size="16" font-weight="800" fill="#FFF">aws</text>
+  </g>
+  <text x="72" y="336" font-family="'JetBrains Mono',monospace" font-size="9" fill="#A08A66">aws.amazon.com/training</text>
+</svg>

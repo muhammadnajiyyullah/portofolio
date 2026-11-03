@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Artikel tentang design system">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F1E7"/>
+      <stop offset="1" stop-color="#E4D8FF"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B6CFF"/>
+      <stop offset="1" stop-color="#6C4DE6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="600" fill="url(#bg)"/>
+  <g stroke="#2B1B5A" stroke-opacity=".07">
+    <path d="M0 150h1000M0 300h1000M0 450h1000M250 0v600M500 0v600M750 0v600"/>
+  </g>
+  <text x="70" y="90" font-family="'JetBrains Mono',monospace" font-size="12" fill="#6C4DE6" letter-spacing="4">DEV JOURNAL / 014</text>
+  <text x="70" y="220" font-family="'Plus Jakarta Sans',system-ui" font-size="58" font-weight="800" fill="#2B1B5A" letter-spacing="-2">Small system,</text>
+  <text x="70" y="288" font-family="'Plus Jakarta Sans',system-ui" font-size="58" font-weight="800" fill="#8B6CFF" letter-spacing="-2">calm product.</text>
+  <text x="70" y="342" font-family="'Plus Jakarta Sans',system-ui" font-size="14" fill="#6B6285">Design system untuk proyek yang dikerjakan sendirian.</text>
+
+  <g transform="translate(620 120)">
+    <rect x="0" y="0" width="300" height="360" rx="22" fill="#FFF" opacity=".8"/>
+    <text x="24" y="42" font-family="'JetBrains Mono',monospace" font-size="10" fill="#8B7DB5">TOKENS</text>
+    <g>
+      <rect x="24" y="60" width="52" height="52" rx="12" fill="#2B1B5A"/>
+      <rect x="86" y="60" width="52" height="52" rx="12" fill="#8B6CFF"/>
+      <rect x="148" y="60" width="52" height="52" rx="12" fill="#C9B8FF"/>
+      <rect x="210" y="60" width="52" height="52" rx="12" fill="#FAF8FF" stroke="#E6DEFF"/>
+    </g>
+    <text x="24" y="152" font-family="'Plus Jakarta Sans',system-ui" font-size="30" font-weight="800" fill="#2B1B5A">Aa</text>
+    <text x="74" y="146" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="600" fill="#2B1B5A">Jakarta Sans</text>
+    <text x="74" y="162" font-family="'JetBrains Mono',monospace" font-size="9" fill="#8B7DB5">800 / -0.04em</text>
+    <rect x="24" y="184" width="238" height="1" fill="#EEE8FF"/>
+    <rect x="24" y="206" width="160" height="38" rx="19" fill="url(#chip)"/>
+    <text x="54" y="230" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="600" fill="#FFF">Primary action</text>
+    <rect x="24" y="258" width="160" height="38" rx="19" fill="none" stroke="#C9B8FF"/>
+    <text x="56" y="282" font-family="'Plus Jakarta Sans',system-ui" font-size="11" font-weight="600" fill="#6C4DE6">Secondary</text>
+    <rect x="24" y="314" width="238" height="1" fill="#EEE8FF"/>
+    <text x="24" y="340" font-family="'JetBrains Mono',monospace" font-size="9" fill="#8B7DB5">radius · 12 16 19 24</text>
+  </g>
+
+  <g transform="translate(70 400)">
+    <rect x="0" y="0" width="150" height="44" rx="22" fill="#FFF" opacity=".7"/>
+    <text x="24" y="27" font-family="'Plus Jakarta Sans',system-ui" font-size="11" fill="#2B1B5A">Consistency</text>
+    <rect x="164" y="0" width="150" height="44" rx="22" fill="#FFF" opacity=".7"/>
+    <text x="188" y="27" font-family="'Plus Jakarta Sans',system-ui" font-size="11" fill="#2B1B5A">Clarity</text>
+    <rect x="328" y="0" width="150" height="44" rx="22" fill="#FFF" opacity=".7"/>
+    <text x="352" y="27" font-family="'Plus Jakarta Sans',system-ui" font-size="11" fill="#2B1B5A">Empathy</text>
+  </g>
+  <text x="70" y="530" font-family="'JetBrains Mono',monospace" font-size="11" fill="#6B6285">fewer choices · better decisions</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Sinara review intelligence dashboard">
+  <defs>
+    <linearGradient id="dark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101622"/>
+      <stop offset="1" stop-color="#1B2438"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7CFFCB"/>
+      <stop offset="1" stop-color="#35C99A"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9AA5FF"/>
+      <stop offset="1" stop-color="#6C7BFF"/>
+    </linearGradient>
+    <pattern id="g" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFF" stroke-opacity=".04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="750" fill="url(#dark)"/>
+  <rect width="1200" height="750" fill="url(#g)"/>
+  <circle cx="1060" cy="90" r="200" fill="#7CFFCB" opacity=".06"/>
+  <circle cx="160" cy="690" r="200" fill="#6C7BFF" opacity=".12"/>
+
+  <rect x="90" y="80" width="1020" height="590" rx="24" fill="#141B2A" stroke="#26314A"/>
+  <rect x="90" y="80" width="1020" height="58" rx="24" fill="#101722"/>
+  <rect x="90" y="118" width="1020" height="20" fill="#101722"/>
+  <circle cx="122" cy="109" r="5" fill="#FF7A7A"/><circle cx="140" cy="109" r="5" fill="#FFD37A"/><circle cx="158" cy="109" r="5" fill="#7CFFCB"/>
+  <text x="196" y="114" font-family="'JetBrains Mono',monospace" font-size="11" fill="#7E8AA6">sinara.app/insights</text>
+  <rect x="920" y="94" width="160" height="30" rx="15" fill="#1D273A" stroke="#2C3B55"/>
+  <circle cx="942" cy="109" r="4" fill="#7CFFCB"/>
+  <text x="954" y="113" font-family="'JetBrains Mono',monospace" font-size="9" fill="#A9B7D4">LIVE · 12.4K REVIEWS</text>
+
+  <text x="128" y="196" font-family="'Plus Jakarta Sans',system-ui" font-size="25" font-weight="800" fill="#F2F6FF">Customer voice, decoded.</text>
+  <text x="128" y="222" font-family="'Plus Jakarta Sans',system-ui" font-size="12" fill="#8695B4">Sentiment and topic analysis across 12,481 marketplace reviews.</text>
+
+  <g font-family="'Plus Jakarta Sans',system-ui">
+    <rect x="128" y="256" width="296" height="132" rx="16" fill="#182133" stroke="#26314A"/>
+    <text x="150" y="286" font-size="10" fill="#8695B4">POSITIVE SENTIMENT</text>
+    <text x="150" y="330" font-size="36" font-weight="800" fill="#7CFFCB">74,2%</text>
+    <text x="150" y="356" font-size="10" fill="#7CFFCB">▲ 6,1% dari bulan lalu</text>
+    <rect x="150" y="368" width="252" height="7" rx="3.5" fill="#243149"/>
+    <rect x="150" y="368" width="187" height="7" rx="3.5" fill="url(#mint)"/>
+
+    <rect x="440" y="256" width="200" height="132" rx="16" fill="#182133" stroke="#26314A"/>
+    <text x="462" y="286" font-size="10" fill="#8695B4">NEUTRAL</text>
+    <text x="462" y="330" font-size="36" font-weight="800" fill="#9AA5FF">17,8%</text>
+    <text x="462" y="356" font-size="10" fill="#8695B4">2,221 reviews</text>
+
+    <rect x="656" y="256" width="200" height="132" rx="16" fill="#182133" stroke="#26314A"/>
+    <text x="678" y="286" font-size="10" fill="#8695B4">NEGATIVE</text>
+    <text x="678" y="330" font-size="36" font-weight="800" fill="#FF8E8E">8,0%</text>
+    <text x="678" y="356" font-size="10" fill="#FF8E8E">▼ 1,4% membaik</text>
+
+    <rect x="872" y="256" width="200" height="132" rx="16" fill="#182133" stroke="#26314A"/>
+    <text x="894" y="286" font-size="10" fill="#8695B4">TOP TOPIC</text>
+    <text x="894" y="320" font-size="17" font-weight="700" fill="#F2F6FF">Pengiriman</text>
+    <text x="894" y="342" font-size="10" fill="#8695B4">31,6% dari keluhan</text>
+    <rect x="894" y="358" width="156" height="7" rx="3.5" fill="#243149"/>
+    <rect x="894" y="358" width="94" height="7" rx="3.5" fill="#FF8E8E"/>
+  </g>
+
+  <rect x="128" y="412" width="612" height="224" rx="16" fill="#182133" stroke="#26314A"/>
+  <text x="150" y="444" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="600" fill="#F2F6FF">Sentiment trend</text>
+  <text x="700" y="444" text-anchor="end" font-family="'JetBrains Mono',monospace" font-size="9" fill="#7E8AA6">JUN — NOV</text>
+  <g stroke="#26314A" stroke-width="1">
+    <path d="M150 476h568M150 514h568M150 552h568M150 590h568"/>
+  </g>
+  <path d="M150 560L210 548 270 552 330 522 390 530 450 494 510 502 570 476 630 482 690 458 718 464"
+        fill="none" stroke="url(#mint)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 560L210 548 270 552 330 522 390 530 450 494 510 502 570 476 630 482 690 458 718 464V614H150Z"
+        fill="url(#mint)" opacity=".08"/>
+  <circle cx="718" cy="464" r="5" fill="#7CFFCB"/>
+  <g font-family="'JetBrains Mono',monospace" font-size="8" fill="#6E7D9C">
+    <text x="150" y="626">JUN</text><text x="262" y="626">JUL</text><text x="374" y="626">AUG</text><text x="486" y="626">SEP</text><text x="598" y="626">OCT</text><text x="706" y="626">NOV</text>
+  </g>
+
+  <rect x="764" y="412" width="308" height="224" rx="16" fill="#182133" stroke="#26314A"/>
+  <text x="786" y="444" font-family="'Plus Jakarta Sans',system-ui" font-size="12" font-weight="600" fill="#F2F6FF">Top complaints</text>
+  <g font-family="'Plus Jakarta Sans',system-ui" font-size="10">
+    <text x="786" y="478" fill="#C7D2E8">Pengiriman terlambat</text><text x="1046" y="478" text-anchor="end" fill="#7CFFCB">31%</text>
+    <rect x="786" y="486" width="260" height="5" rx="2.5" fill="#243149"/><rect x="786" y="486" width="81" height="5" rx="2.5" fill="#7CFFCB"/>
+    <text x="786" y="516" fill="#C7D2E8">Kualitas kemasan</text><text x="1046" y="516" text-anchor="end" fill="#9AA5FF">24%</text>
+    <rect x="786" y="524" width="260" height="5" rx="2.5" fill="#243149"/><rect x="786" y="524" width="62" height="5" rx="2.5" fill="#9AA5FF"/>
+    <text x="786" y="554" fill="#C7D2E8">Respons penjual</text><text x="1046" y="554" text-anchor="end" fill="#FFD37A">19%</text>
+    <rect x="786" y="562" width="260" height="5" rx="2.5" fill="#243149"/><rect x="786" y="562" width="49" height="5" rx="2.5" fill="#FFD37A"/>
+    <text x="786" y="592" fill="#C7D2E8">Harga &amp; promo</text><text x="1046" y="592" text-anchor="end" fill="#FF8E8E">12%</text>
+    <rect x="786" y="600" width="260" height="5" rx="2.5" fill="#243149"/><rect x="786" y="600" width="31" height="5" rx="2.5" fill="#FF8E8E"/>
+  </g>
+</svg>
